@@ -1,0 +1,18 @@
+This is the OS/2 port of vAVRDisAsm for GCC 4.5.2.
+
+This is an Atmel 8-bit AVR firmware disassembler. For more informations
+on how to use it, simply read the documentation included with
+the source package.
+
+I included the os2 executable file (and the map file produced by GCC) into
+the os2 subdirectory, together with the make file for OS/2.
+
+I hope it will be useful to those of us who love to fiddle with electronic
+circuits and digital electronics.
+
+If you find it useful, please drop me a note and consider making a donation
+to Paul Smedley, who provided us with his build environment!
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
